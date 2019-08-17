@@ -1,2 +1,2 @@
-# Fake-Nubank
-[React Native] A replicated version of Nubank App made in react native.
+# Fake Nubank
+A replicated version of Nubank App made in react native.
