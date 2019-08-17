@@ -1,9 +1,12 @@
 import React from 'react'
+import QRCode from '~/assets/QRCode.png'
 
-import { Container } from './styles'
+import { Container, Code } from './styles'
 
 export default function Menu(){
     return (
-        <Container />
+        <Container>
+            <Code source={QRCode} />
+        </Container>
     )
 }
