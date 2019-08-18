@@ -3,7 +3,7 @@
   <img width="auto" height="auto" src="demo/app.gif">
 </p>
 <p align="center">
-  A Nubank App refactored in React Native.
+  A Nubank App interface refactored in React Native.
 </p>
 
 ## Dependencies
